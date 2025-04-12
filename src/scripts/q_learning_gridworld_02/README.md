@@ -1,3 +1,4 @@
+![Ql02](q_learning_entorno_mario_01.png)
 ¿Cómo se lee la tabla?
 
 Por ejemplo, esta fila:
