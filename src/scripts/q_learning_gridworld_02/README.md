@@ -1,8 +1,10 @@
-![Ql02](q_learning_entorno_mario_01.png)
+![Ql02](q_learning_gridworld_5x5_q_table_3d_02.png)
+
+
 ¿Cómo se lee la tabla?
 
 Por ejemplo, esta fila:
-[[ 37.22673899  42.612659    37.23144057  42.52914127]
+[[ 37.30245166  42.03565576  37.12767209  42.612659  ]
 
 corresponde al estado (0,0) (esquina superior izquierda). Cada número en la lista representa:
 
@@ -14,7 +16,7 @@ corresponde al estado (0,0) (esquina superior izquierda). Cada número en la lis
 
     Q[0, 0, 3]: valor de "derecha".
 
-Entonces, en (0,0), las acciones abajo (1) y derecha (3) tienen los valores más altos (~42.6 y ~42.5), lo cual tiene sentido: desde (0,0) solo puedes avanzar hacia abajo o a la derecha, y ambos llevan eventualmente a la meta.
+Entonces, en (0,0), las acciones abajo (1) y derecha (3) tienen los valores más altos (~42.0 y ~42.6), lo cual tiene sentido: desde (0,0) solo puedes avanzar hacia abajo o a la derecha, y ambos llevan eventualmente a la meta.
 
 🏁 ¿Qué pasa con la meta (4,4)?
 
