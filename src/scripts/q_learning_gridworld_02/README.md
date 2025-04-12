@@ -1,5 +1,5 @@
+![Ql02](q_learning_gridworld_5x5_politicas_aprendidas_01.png)
 ![Ql02](q_learning_gridworld_5x5_q_table_3d_02.png)
-
 
 ¿Cómo se lee la tabla?
 
