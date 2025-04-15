@@ -43,6 +43,7 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.optimizers import Adam
 import random
+import matplotlib.pyplot as plt
 
 #tema oscuro
 plt.rcParams.update({
