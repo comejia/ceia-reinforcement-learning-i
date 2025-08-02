@@ -16,7 +16,7 @@ corresponde al estado (0,0) (esquina superior izquierda). Cada número en la lis
 
     Q[0, 0, 3]: valor de "derecha".
 
-Entonces, en (0,0), las acciones abajo (1) y derecha (3) tienen los valores más altos (~42.0 y ~42.6), lo cual tiene sentido: desde (0,0) solo puedes avanzar hacia abajo o a la derecha, y ambos llevan eventualmente a la meta.
+Entonces, en (0,0), las acciones abajo (1) y derecha (3) tienen los valores más altos (~42.0 y ~42.6), lo cual tiene sentido: desde (0,0) solo se puede avanzar hacia abajo o a la derecha, y ambos llevan eventualmente a la meta.
 
 🏁 ¿Qué pasa con la meta (4,4)?
 
