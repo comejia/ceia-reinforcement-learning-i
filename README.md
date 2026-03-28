@@ -19,6 +19,24 @@ Para instalar las dependencias necesarias, ejecuta (si corresponde):
 ```bash
 pip install -r requirements.txt
 ```
+
+## 🎓 Contenido del Curso
+1. **Introducción al Aprendizaje por Refuerzo**
+2. **Procesos de Decisión de Markov (MDP)**
+3. **Programación Dinámica**
+4. **Métodos de Monte Carlo**
+5. **Métodos de diferencia temporal**
+6. **Bibliotecas para aprendizaje por refuerzo**
+7. **Deep Q-Network**
+8. **Métodos de Gradiente de Política**
+
+
+## 🧠 Tecnicas de Aprendizaje por Refuerzo
+<p align="center">
+  <img src="images/tecnicas_rl.png" alt="Técnicas de Aprendizaje por Refuerzo" width="600" />
+</p>
+
+
 ## 📄 Bibliografía
 R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction, 2nd ed. Cambridge, MA, USA: MIT Press, 2018.
 
