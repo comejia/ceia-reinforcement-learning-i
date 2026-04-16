@@ -5,10 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "gymnasium>=1.2.3",
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
+    "pygame>=2.6.1",
     "torch>=2.11.0",
+    "tqdm>=4.67.3",
 ]
 
 [dependency-groups]
@@ -16,3 +19,6 @@ dev = [
     "pre-commit>=4.5.1",
     "ruff>=0.15.7",
 ]
+
+[tool.ruff]
+line-length = 100
